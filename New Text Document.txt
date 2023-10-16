@@ -4,5 +4,5 @@
 
 🌱 Active open-source contributer, focusing on Generative AI 
 
-🛠️ Working on [gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
+🛠️ Contributing to [gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
 
