@@ -1,8 +1,6 @@
 Hey I'm Theo McCabe
 
-Consultant in Software Engineering and Leadership
-
-I work mainly in Architecture C# DevOps & TDD
+I work in Software Leadership, focusing on DevOps Architecture & Testing
 
 Also an active open-source contributer, focusing on Generative AI 
 
