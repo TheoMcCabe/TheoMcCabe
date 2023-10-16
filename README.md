@@ -1,4 +1,4 @@
-### Hey, I'm Theo McCabe 👋
+### Theo McCabe 👋
 
 🖥️ Work in Software Leadership, focusing on DevOps Architecture & Testing
 
