@@ -4,5 +4,7 @@
 
 🌱 Active open-source contributer, focusing on Generative AI 
 
-🛠️ Working on [gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
+🔋 Work hours - consultant principle engineer at [Indra Renewable Technologies](https://www.indra.co.uk/).
+
+🛠️ Side projects - [gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
 
