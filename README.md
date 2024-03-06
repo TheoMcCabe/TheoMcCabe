@@ -4,6 +4,6 @@
 
 🌱 Active open-source contributer, focusing on Generative AI 
 
-🔋 Work hours - consultant Principle Engineer @ [Indra Renewable Technologies](https://www.indra.co.uk/).
+🏫 Work hours - consultant Lead AI Engineer @ [BPP University](https://www.bpp.com/).
 
 🛠️ Side projects - [gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
