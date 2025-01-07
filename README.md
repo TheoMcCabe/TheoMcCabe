@@ -2,6 +2,6 @@
 
 🖥️ Work in Software, focusing on DevOps Architecture & Testing
 
-🌱 Active open-source contributor, focusing on Generative AI. Contributor at [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer).
+🌱 Occasional open-source contributor, focusing on Generative AI. 
 
 🏫 Work hours - AI Engineer @ [BPP University](https://www.bpp.com/).
