@@ -4,4 +4,4 @@
 
 🌱 Occasional open-source contributor, working on Gen AI. 
 
-🏫 Work hours - AI Engineer @ [BPP University](https://www.bpp.com/).
+🏫 Work hours - Principal AI Engineer @ [BPP University](https://www.bpp.com/).
